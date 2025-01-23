@@ -617,7 +617,7 @@ Vem, realiza os Teus milagres, nos conduz à santidade
 Vem, transforma os nossos corações
 Vem, reaviva a Tua chama, ó fogo abrasador
 E nos faz reconhecer o verdadeiro amor`},
-  {nome: 'Ó Jesus, eu vim aqui Te adorar', inicio: 'Ó Jesus, eu vim aqui Te adorar', url: 'o-jesus-eu-vim-aqui-te-adorar', playerSrc: 'https://drive.google.com/file/d/1N4OZZGcC_PjVv7xPwdiBiCQEfC5sWRuT/prepreview',
+  {nome: 'Ó Jesus, eu vim aqui Te adorar', inicio: 'Ó Jesus, eu vim aqui Te adorar', url: 'o-jesus-eu-vim-aqui-te-adorar', playerSrc: 'https://drive.google.com/file/d/1N4OZZGcC_PjVv7xPwdiBiCQEfC5sWRuT/preview',
 letra:`Ó Jesus, eu vim aqui Te adorar
 Maravilhas sei que podes fazer
 O meu ser se enche de gratidão
