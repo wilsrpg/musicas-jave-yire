@@ -177,7 +177,7 @@ Corpo, sangue, alma, divindade
 Sacramentado nesse altar
 Corpo, sangue, alma, divindade
 Sacramentado nesse altar`},
-  {nome: 'Do coração de Deus para o coração de Deus', inicio: 'Você sabe de onde vem, você sabe', url: 'cumplice-do-amor', playerSrc: 'https://drive.google.com/file/d/1hWYS45ugd5mA3JTdJGM6QWT82n0Fc7Hj/preview',
+  {nome: 'Do coração de Deus para o coração de Deus', inicio: 'Você sabe de onde vem, você sabe', url: 'do-coracao-de-deus-para-o-coracao-de-deus', playerSrc: 'https://drive.google.com/file/d/1hWYS45ugd5mA3JTdJGM6QWT82n0Fc7Hj/preview',
 letra:`Você sabe de onde vem, você sabe
 Você sabe pra onde vai, você sabe
 Eu sei, vou lhe falar, eu sei, vou lhe falar
